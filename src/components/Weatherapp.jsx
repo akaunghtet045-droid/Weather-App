@@ -62,7 +62,7 @@ function Weatherapp() {
   }
 
   useEffect(() => {
-    search()
+    search("Yangon")
   },[])
 
   return (
