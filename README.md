@@ -1,33 +1,35 @@
-2. Todo App README.md
+3. Weather App README.md
 
 ```md
-React Todo App
+React Weather App
 
-A simple and clean Todo application built with React.js that helps users manage daily tasks efficiently.
+A weather application built with React.js that fetches real-time weather information using the OpenWeatherMap API.
 
 Features
 
-- Add New Task
-- Delete Task
-- Mark Task as Completed
-- Responsive UI
-- State Management using React Hooks
+- Search Weather by City
+- Real-Time Temperature
+- Weather Description
+- Humidity
+- Wind Speed
+- Weather Icons
+- Responsive Design
 
 Tech Stack
 
 - React.js
 - CSS3
 - JavaScript (ES6)
+- OpenWeatherMap API
+- Axios / Fetch API
 - Vite
 
 Installation
 
 ```bash
-git clone https://github.com/akaunghtet045-droid/react-todo-app.git
 
-cd react-todo-app
+cd react-weather-app
 
 npm install
 
 npm run dev
-
