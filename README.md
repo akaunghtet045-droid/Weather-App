@@ -1,6 +1,6 @@
 2. Weather App README.md
 
-```md
+
 React Weather App
 
 A weather application built with React.js that fetches real-time weather information using the OpenWeatherMap API.
