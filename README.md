@@ -1,4 +1,4 @@
-3. Weather App README.md
+2. Weather App README.md
 
 ```md
 React Weather App
